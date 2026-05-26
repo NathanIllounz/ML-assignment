@@ -43,5 +43,5 @@ We built a custom **5-Fold Cross-Validation Grid Search** from scratch to evalua
 
 ## 🔗 Submission Artifacts
 * **Jupyter Notebook:** [src_notebook.ipynb](src_notebook.ipynb) (Rendered with all dataframes, shape verifications, and visualizations)
-* **Technical Walkthrough Video (YouTube):** [PASTE YOUR YOUTUBE VIDEO LINK HERE]
+* **Technical Walkthrough Video (YouTube):** https://www.youtube.com/watch?v=6yHX1NKdORc
 * **Kaggle Dataset Source:** [MNIST Handwritten Digits](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
